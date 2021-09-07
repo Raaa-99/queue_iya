@@ -3,4 +3,6 @@
 
 int main() {
   int max = 6;
+  int i = 0;
 }
+
